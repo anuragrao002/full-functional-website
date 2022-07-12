@@ -1,2 +1,3 @@
 # my_portfolio
-https://raw.githubusercontent.com/anuragrao002/full-functional-website/main/Screenshot%202022-07-10%20155303.png
+![image](https://user-images.githubusercontent.com/101173148/178418959-fdd335d3-3489-40e0-9540-bb1b647c487f.png)
+
